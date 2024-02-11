@@ -142,3 +142,4 @@ class SimpleCheckers:
 if __name__ == "__main__":
     game = SimpleCheckers()
     game.play_game()
+    print("Thanks for playing!")
